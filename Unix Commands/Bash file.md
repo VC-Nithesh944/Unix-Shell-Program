@@ -1,5 +1,5 @@
 # Bash Scripts 📜
-***Once the VI command of [Bash Script](https://github.com/VC-Nithesh944/Unix-Shell-Program/blob/main/Unix%20Commands/Bash%20Scripts.md) is executed creates a required file with assigned file name then You can executed the following Scripts***
+***Once the Vi command of [Bash Script](https://github.com/VC-Nithesh944/Unix-Shell-Program/blob/main/Unix%20Commands/Bash%20Scripts.md) is executed creates a required file with assigned file name then You can executed the following Scripts***
 
 ### 1. Hello World Script 🌍
 This script prints **Hello World** to the terminal
